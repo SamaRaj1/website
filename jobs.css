@@ -1,0 +1,85 @@
+form {
+
+    margin-top: 90px;
+    font-style: italic;
+    display: grid;
+    height: auto;
+    width: auto;
+    padding-left: 750px;
+    font-size: 22px;
+    color: bisque;
+    justify-content: center;
+    box-sizing: border-box;
+
+}
+header{
+    padding-left: 20px;
+    font-size:large;
+}
+
+h2 {
+    color: bisque;
+    padding-left: 30px;
+}
+
+p {
+    color: bisque;
+    padding-left: 30px;
+}
+
+nav ul {
+    display: flow-root;
+    flex-direction: row;
+    list-style: square;
+    padding: 30px;
+
+}
+
+body {
+    background-image: url(cup.jpeg);
+    background-size: contain;
+    height: 720px;
+    width: 300px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: rgb(37, 26, 18);
+}
+
+ul {
+    display: inline-block;
+    flex-direction: row;
+    list-style: square;
+    padding: 30px;
+    font-size: 30px;
+    margin-left: 15px;
+    font-style: italic;
+    color: bisque;
+    background-color: rgb(37, 26, 18);
+    font-size: xx-large;
+
+
+}
+
+li {
+    display: block;
+    color: aliceblue;
+    padding: 8px 16px;
+
+
+}
+
+li a:hover {
+    background-color: #555;
+    color: white;
+}
+
+p {
+    font-size: x-large;
+    font-style: italic;
+    background: fixed;
+
+}
+
+a {
+    color: bisque;
+}

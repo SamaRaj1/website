@@ -1,0 +1,62 @@
+header {
+    padding: 20px;
+    display: flex;
+    font-size: x-large;
+   padding-left: 550px;
+   background-color:rgb(130, 125, 125)
+}
+audio{
+    padding-left: 100px;
+ 
+}
+
+
+h1{
+    margin-top: 10px;
+    color:bisque;
+    padding-left: 20px;
+}
+a{
+    color: rgb(0, 0, 0);
+    
+    background-size: 5px;
+}
+h2{
+    color: rgba(229, 229, 227, 0.923);
+    padding-left: 10px;
+   
+}
+img{
+    padding-left: 20px;
+    padding-top: 10px;
+    position:relative;
+    
+}
+h3{
+    color: rgba(229, 229, 227, 0.923);
+    padding-left: 20px;
+    background-color: black;
+    
+}
+h4{
+    padding-left: 20px;
+    color: aliceblue;
+
+}
+main{
+    background: transparent; 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(music.jpeg);
+    width: 500px;
+    
+    
+    
+}
+body{
+    background-color: rgb(0, 0, 0);
+    background-image: url(mike.jpeg);
+    background-size:750px;
+    background-repeat: no-repeat;
+    background-position: right;
+}
